@@ -3,6 +3,7 @@ synthea_sample_data_fhir_r4_nov2021.zip
 *.pyc
 *.pyo
 *.pyd
-10k_synthea_covid19_csv.zip
 /__pycache__
+.env
 *.pem
+/datasets
